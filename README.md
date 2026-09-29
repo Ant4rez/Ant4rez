@@ -1,4 +1,3 @@
-[README_perfil_GitHub.md](https://github.com/user-attachments/files/32787780/README_perfil_GitHub.md)
 # Thiago Fiel de Oliveira
 
 **Dados, Cloud e IA** · São Bernardo do Campo, SP, Brasil
